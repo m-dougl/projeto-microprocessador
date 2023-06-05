@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 #include <WiFi.h>
 
-const char* SSID        = "Douglas";
-const char* PASSWORD    = "fpi1Kwss";
+const char* SSID        = "";
+const char* PASSWORD    = "";
 const char* MQTT_SERVER = "broker.hivemq.com";
 const char* MQTT_TOPIC  = "teste_casa_douglas";
 int         MQTT_PORT   = 1883;
